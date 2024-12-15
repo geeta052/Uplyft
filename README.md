@@ -24,6 +24,48 @@ The goal of this project was to develop a chatbot that interacts with users to h
 - **Database**: A mock inventory system with product data stored as an array of objects (simulated for demonstration purposes).
 - **API Communication**: RESTful API for seamless communication between the frontend and backend.
 
+
+### Key Points:
+
+- **Step 2 for frontend**: Describes the `npm start` command to run the frontend.
+- **Step 2 for backend**: Explains how to run the backend server with `python app.py`.
+- **Accessing the Chatbot**: Instructions to open the browser and interact with the chatbot.
+- **How It Works**: Brief explanation of how the frontend and backend communicate with each other.
+- **API Documentation**: Defines the endpoints and example usage.
+- **Project Structure**: Displays the folder structure of the project for better understanding.
+- **Running the Project Locally**: Details the necessary steps to run the project locally.
+
+## Installation
+
+### Frontend
+
+1. Navigate to the `react-frontend` directory.
+
+2. Install the required dependencies by running:
+   - `npm install`
+
+3. Start the frontend application by running:
+   - `npm start`
+   
+   The frontend will be available at [http://localhost:3000](http://localhost:3000).
+
+### Backend
+
+1. Navigate to the `flask-backend` directory.
+
+2. Install the required Python dependencies by running:
+   - `pip install -r requirements.txt`
+
+3. Start the backend server by running:
+   - `python app.py`
+   
+   The backend will be available at [http://127.0.0.1:5000](http://127.0.0.1:5000).
+
+### Accessing the Chatbot
+
+- Open a web browser and go to [http://localhost:3000](http://localhost:3000) to interact with the chatbot.
+
+
 ![image](https://github.com/user-attachments/assets/5631839d-72a4-46d5-be2b-ea1e88702272)
 ![image](https://github.com/user-attachments/assets/fff6c056-f4ff-480b-9b9d-4dc5775b795a)
 ![image](https://github.com/user-attachments/assets/635a5c60-20ad-4aa1-80d3-4b9349b9a16d)
