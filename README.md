@@ -24,12 +24,6 @@ The goal of this project was to develop a chatbot that interacts with users to h
 - **Database**: A mock inventory system with product data stored as an array of objects (simulated for demonstration purposes).
 - **API Communication**: RESTful API for seamless communication between the frontend and backend.
 
-## Installation
+![image](https://github.com/user-attachments/assets/5631839d-72a4-46d5-be2b-ea1e88702272)
+![image](https://github.com/user-attachments/assets/635a5c60-20ad-4aa1-80d3-4b9349b9a16d)
 
-### Frontend
-
-1. Navigate to the `react-frontend` directory and install dependencies:
-
-```bash
-cd react-frontend
-npm install
