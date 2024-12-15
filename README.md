@@ -25,5 +25,8 @@ The goal of this project was to develop a chatbot that interacts with users to h
 - **API Communication**: RESTful API for seamless communication between the frontend and backend.
 
 ![image](https://github.com/user-attachments/assets/5631839d-72a4-46d5-be2b-ea1e88702272)
+![image](https://github.com/user-attachments/assets/fff6c056-f4ff-480b-9b9d-4dc5775b795a)
 ![image](https://github.com/user-attachments/assets/635a5c60-20ad-4aa1-80d3-4b9349b9a16d)
+![image](https://github.com/user-attachments/assets/b47ddf45-3004-497b-9fb6-57de6c2c40b3)
+
 
