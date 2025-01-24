@@ -24,17 +24,6 @@ The goal of this project was to develop a chatbot that interacts with users to h
 - **Database**: A mock inventory system with product data stored as an array of objects (simulated for demonstration purposes).
 - **API Communication**: RESTful API for seamless communication between the frontend and backend.
 
-
-### Key Points:
-
-- **Step 2 for frontend**: Describes the `npm start` command to run the frontend.
-- **Step 2 for backend**: Explains how to run the backend server with `python app.py`.
-- **Accessing the Chatbot**: Instructions to open the browser and interact with the chatbot.
-- **How It Works**: Brief explanation of how the frontend and backend communicate with each other.
-- **API Documentation**: Defines the endpoints and example usage.
-- **Project Structure**: Displays the folder structure of the project for better understanding.
-- **Running the Project Locally**: Details the necessary steps to run the project locally.
-
 ## Installation
 
 ### Frontend
